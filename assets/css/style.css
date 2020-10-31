@@ -371,6 +371,14 @@ button {
   color: #fff;
 }
 
+#hero p {
+  margin: 0 0 0 0;
+  font-size: 24px;
+  /* font-weight: 700; */
+  /* line-height: 56px; */
+  color: #fff;
+}
+
 #hero h2 {
   color: rgba(255, 255, 255, 0.7);
   margin-bottom: 35px;
@@ -709,8 +717,12 @@ section {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  margin-top: 10px;
 }
 
+.services .education{
+  margin-bottom: 20px;
+}
 .services .icon-box-pink .icon i {
   color: #ff689b;
 }
@@ -725,6 +737,14 @@ section {
 
 .services .icon-box-blue .icon i {
   color: #2282ff;
+}
+
+.services h5 {
+  margin-top: 10px;
+}
+.services p {
+  margin-top:0px;
+  margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------
